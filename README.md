@@ -2,7 +2,6 @@
   * Frontend Developer 💻
     * With a strong interest in microservices architecture 
   
-  * 📗 Platzi Master - Cohort 8
   * Preferred stack: MERN (MongoDB, Express, React, Node)
   * I like to solve problems with javascript technologies
 
@@ -13,6 +12,5 @@
   * ![](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white) | ![](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
   * Check my [repo stats](https://profile-summary-for-github.com/user/ferdroid8080)
 
-![Platzi Master](https://img.shields.io/badge/Platzi%20Master-C8-95ca3e) 
 ![](https://komarev.com/ghpvc/?username=ferdroid8080&color=yellowgreen)
 
