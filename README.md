@@ -1,6 +1,6 @@
 ## 🎖 About Me
-  * Frontend Developer 💻
-    * With a strong interest in microservices architecture 
+  * I'm a Frontend Developer 💻
+    * With a strong interest in microservices architecture, and I got some basics of backend development. 
   
   * Preferred stack: MERN (MongoDB, Express, React, Node)
   * I like to solve problems with javascript technologies
@@ -13,4 +13,7 @@
   * Check my [repo stats](https://profile-summary-for-github.com/user/ferdroid8080)
 
 ![](https://komarev.com/ghpvc/?username=ferdroid8080&color=yellowgreen)
+
+## 📊 Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ferdroid8080&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/ferdroid8080)
 
